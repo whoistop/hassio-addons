@@ -5,7 +5,7 @@ MAINTAINER SchumyHao <schumy.haojl@gmail.com>
 ENV LANG C.UTF-8
 
 ARG BUILD_ARCH
-ARG FRP_VERSION=0.14.0
+ARG FRP_VERSION=0.14.1
 ARG FRP_ARCH="arm"
 RUN apk update \
      && apk add --no-cache jq wget
