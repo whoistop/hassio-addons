@@ -1,1 +1,0 @@
-# hassmart-addons
